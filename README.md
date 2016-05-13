@@ -8,7 +8,7 @@
 
 ### 动画必要条件
 
-** 关键帧、运行时间 **
+##关键帧、运行时间##
 
 动画轨迹由多个关键帧组成。
 
@@ -42,6 +42,10 @@
 其中，`animation-timing-function`作用是速度曲线用于使变化更为平滑，缺省值'ease'，速度两头快中间慢效果；
 
 `animation-iteration-count`动画播放的次数，缺省值为1，最大值为infinite。
+
+### 简写语法
+
+animation: name duration timing-function delay iteration-count direction;
 
 
 

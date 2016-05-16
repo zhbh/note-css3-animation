@@ -47,6 +47,10 @@
 
 animation: name duration timing-function delay iteration-count direction;
 
+闪烁效果
+
+移动效果
+
 
 
 

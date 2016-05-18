@@ -49,7 +49,7 @@ animation: name duration timing-function delay iteration-count direction;
 
 ### 淡入淡出
 
-
+运用主要属性是opacity(透明度)，1s内ease动画速度曲线实现透明度从0到1的淡出效果，同样淡出效果是透明度从1到0；
 
 移动效果
 

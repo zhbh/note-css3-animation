@@ -1,0 +1,25 @@
+.slideInLeft {
+	animation-name: slideInLeft;
+}
+
+@keyframes slideInLeft {
+	0% {
+		transform: translate(-100%,0%);
+	}
+	100% {
+		transform: translate(0%,0%);
+	}
+}
+
+.slideInRight {
+	animation-name: slideInRight;
+}
+
+@keyframes slideInRight {
+	0% {
+		transform: translate(100%,0%);
+	}
+	100% {
+		transform: translate(0%,0%);
+	}
+}

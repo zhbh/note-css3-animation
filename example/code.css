@@ -1,0 +1,10 @@
+.text {
+	font: 22px/40px arial;
+	color: green;
+	text-align: center;
+}
+
+.animate {
+	animation-duration: 1s;
+	animation-fill-mode: both;
+}

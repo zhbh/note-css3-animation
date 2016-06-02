@@ -1,0 +1,14 @@
+.rollIn {
+	animation-name: rollIn;
+}
+
+@keyframes rollIn {
+	0% {
+		opacity: 0;
+		transform: translate(-100%,0%) rotateZ(-120deg);
+	}
+	100% {
+		opacity: 1；
+		transform: none;
+	}
+}
